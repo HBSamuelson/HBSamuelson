@@ -5,7 +5,7 @@
 - 📫 How to reach me "https://www.linkedin.com/in/hudayfah-samuelson-2a765a2ab/"
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have Chimerism: A condition where an organism contains cells with more than one distinct set of DNA.
-                                 When i was in the womb i absobrbed my twin And his DNA.                          
+                                 When I was in the womb I absobrbed my twin And his DNA.                          
 
 
 <!---
