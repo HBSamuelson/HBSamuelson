@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HBSamuelson
 - 👀 I’m interested in Full Stack and AI
-- 🌱 I’m currently learning CS50x / C !
+- 🌱 I’m currently learning ML/AI !
 - 💞️ I’m looking to collaborate on the basics
 - 📫 How to reach me "https://www.linkedin.com/in/hudayfah-samuelson-2a765a2ab/"
 - 😄 Pronouns: He/Him
